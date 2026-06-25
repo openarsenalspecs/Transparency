@@ -1,0 +1,170 @@
+# Open Arsenal Transparency Specifications
+
+The specifications outlined on the page describe a broad framework for building systems centered on transparency, auditability, and public accountability. They emphasize designing infrastructure where actions, decisions, and data flows are traceable by default, reducing reliance on implicit trust in institutions or intermediaries. The overall structure prioritizes open verification, reproducible logic, and clear lineage of information so that outcomes can be independently inspected and validated across civic, financial, healthcare, and technological domains.
+
+Across the specification set, there is a consistent focus on modular governance systems that can be adopted by different sectors while maintaining shared standards of openness and accountability. These frameworks are designed to be extensible, allowing organizations to integrate transparency layers into existing systems without rebuilding core infrastructure. Importantly, Specification Branding Licenses can be negotiated with any organization that would like to deploy without attribution, enabling flexible commercial or institutional adoption while preserving the option for open attribution-based use in other contexts.  
+
+## Transparency Specs:  
+
+- **Beekeeper’s Guide to the Universe**  
+[https://roxanneardary.com/beekeepers-guide-to-the-universe/](https://roxanneardary.com/beekeepers-guide-to-the-universe/)  
+An open-source AI-powered ecological intelligence platform for designing, simulating, and sustaining pollinator ecosystems. It integrates bee biology, habitat engineering, climate modeling, and visual ecological analysis.  
+
+- **CommonsTruth**  
+[https://roxanneardary.com/commonstruth/](https://roxanneardary.com/commonstruth/)  
+An open-source anonymous reporting platform for documenting and exposing deceptive advertising and consumer fraud. It uses structured, evidence-based submissions from users.  
+
+- **EnerAgent**  
+[https://roxanneardary.com/eneragent/](https://roxanneardary.com/eneragent/)  
+AI energy management platform optimizing usage, forecasting, and sustainability. It is licensed under AGPLv3.  
+
+- **Feedback Living Model**  
+[https://roxanneardary.com/feedback-living-model/](https://roxanneardary.com/feedback-living-model/)  
+A systemic intelligence framework that models markets as evolving feedback organisms. It analyzes structural fragility, capital flows, and cascade-driven economic behavior.  
+
+- **FoodLab**  
+[https://roxanneardary.com/foodlab/](https://roxanneardary.com/foodlab/)  
+An open-source transparency database tracking food brands, detected chemicals, scientific studies, and related legislation. It provides fully traceable, evidence-based insight into food safety and is AGPLv3.  
+
+- **ForgeAtlas**  
+[https://roxanneardary.com/forgeatlas/](https://roxanneardary.com/forgeatlas/)  
+A lifecycle-aware engineering intelligence platform that helps designers and builders create longer-lasting, repairable products. It supports durable design optimization, local-first material sourcing, and real-time market intelligence.  
+
+- **GapVision**  
+[https://roxanneardary.com/gapvision/](https://roxanneardary.com/gapvision/)  
+Platform tracking and visualizing compensation data to highlight and close gender pay gaps. It uses AI analytics and is licensed AGPLv3.  
+
+- **GitPatrol**  
+[https://roxanneardary.com/gitpatrol/](https://roxanneardary.com/gitpatrol/)  
+An open-source AI that enforces license compliance, tracks attribution, and ensures minimal, token-efficient files in Git repositories. It is licensed under AGPLv3.  
+
+- **GreenMile**  
+[https://roxanneardary.com/greenmile/](https://roxanneardary.com/greenmile/)  
+An open-source CO₂e calculator for measuring, tracking, and reducing travel-related carbon emissions. It focuses on Scope 3 business travel analytics and reporting under AGPLv3.  
+
+- **InstantIndex**  
+[https://roxanneardary.com/instantindex/](https://roxanneardary.com/instantindex/)  
+Privacy-first, locally hosted search engine with adaptive AI learning and optional reward modules. It is licensed AGPLv3.  
+
+- **Ledger Watch**  
+[https://roxanneardary.com/ledgerwatch/](https://roxanneardary.com/ledgerwatch/)  
+An open-source platform that structures publicly available financial data into a transparent, verifiable system. It analyzes market activity, relationships, and patterns under AGPLv3.  
+
+- **MediLens**  
+[https://roxanneardary.com/medilens/](https://roxanneardary.com/medilens/)  
+An open-source, real-time global database tracking pharmaceutical recalls, medication safety, and company accountability. It is licensed under AGPLv3.  
+
+- **MIT Horizon**  
+[https://roxanneardary.com/mit-horizon/](https://roxanneardary.com/mit-horizon/)  
+An open-source research intelligence platform tracking MIT projects, funding, patents, publications, corporate partnerships, and public benefit outcomes. It emphasizes full transparency.  
+
+- **Open_Arsenal**  
+[https://roxanneardary.com/openarsenal/](https://roxanneardary.com/openarsenal/)  
+Collection of open source application, database, program, and hardware concepts. It is designed for discovery and reuse.  
+
+- **OpenDiagnose**  
+[https://roxanneardary.com/opendiagnose/](https://roxanneardary.com/opendiagnose/)  
+A modular, AGPL-3.0+ diagnostic system that turns real-world visual input into structured, actionable repair guidance. It uses interchangeable hardware, AI models, and knowledge packs.  
+
+- **OpenGrievance**  
+[https://roxanneardary.com/opengrievance/](https://roxanneardary.com/opengrievance/)  
+An open-source, privacy-first platform for securely documenting consumer complaints. It detects patterns of corporate misconduct and supports transparency, accountability, and potential legal action.  
+
+- **OpenHighway**  
+[https://roxanneardary.com/openhighway/](https://roxanneardary.com/openhighway/)  
+An open-source civic transparency platform that tracks highway funding from revenue sources through contracts and spending. It follows through to final infrastructure delivery.  
+
+- **OpenLabor Model**  
+[https://roxanneardary.com/openlabor-model/](https://roxanneardary.com/openlabor-model/)  
+An open-source framework that converts complex compensation structures into transparent, comparable economic value. It normalizes wages, benefits, taxes, and cost of living into a real effective hourly rate under AGPLv3.  
+
+- **PayInsight**  
+[https://roxanneardary.com/payinsight/](https://roxanneardary.com/payinsight/)  
+An open-source, privacy-first job platform that uses AI to provide transparent salary insights. It includes cost-of-living analysis and fair compensation guidance for job seekers and employers.  
+
+- **PersonaVenture**  
+[https://roxanneardary.com/personaventure/](https://roxanneardary.com/personaventure/)  
+An open-source AI platform that helps individuals turn their unique skills, talents, hobbies, and passions into successful micro-businesses. It follows the guiding principle AI + You = Success under AGPLv3.  
+
+- **PopMuseData**  
+[https://roxanneardary.com/popmusedata/](https://roxanneardary.com/popmusedata/)  
+AI-driven analytics mapping relationships between birthrates and creativity globally. It is licensed under AGPLv3.  
+
+- **PureScript**  
+[https://roxanneardary.com/purescript/](https://roxanneardary.com/purescript/)  
+An open-source encrypted document writer designed to keep digital writing private, secure, and readable only by authorized humans.  
+
+- **RecordMesh**  
+[https://roxanneardary.com/recordmesh/](https://roxanneardary.com/recordmesh/)  
+RecordMesh is a modular AI platform that converts jurisdiction-aware legal intent into real property instruments. It creates county-ready recording packets for real estate filing systems.  
+
+- **RegistryGuide**  
+[https://roxanneardary.com/registryguide/](https://roxanneardary.com/registryguide/)  
+An open-source vehicle registration, title management, and legal compliance platform. It combines AI-powered assistance, machine-readable law modules, and optional blockchain-backed title verification.  
+
+- **SafeMeds Index**  
+[https://roxanneardary.com/safemedsindex/](https://roxanneardary.com/safemedsindex/)  
+An open-source global pharmaceutical intelligence platform focused on medication price transparency, manufacturer tracking, recall monitoring, and evidence-based therapeutic alternatives.  
+
+- **Shared Infrastructure Fund**  
+[https://roxanneardary.com/shared-infrastructure-fund/](https://roxanneardary.com/shared-infrastructure-fund/)  
+An open platform for transparently funding and verifying physical scientific infrastructure. It uses accountable, milestone-based community investment.  
+
+- **ShellFinder**  
+[https://roxanneardary.com/shellfinder/](https://roxanneardary.com/shellfinder/)  
+Forensic AI tracking OTC companies, founders, subsidiaries, and assets to uncover hidden ownership structures. It is licensed under AGPLv3.  
+
+- **ShellScan**  
+[https://roxanneardary.com/shellscan/](https://roxanneardary.com/shellscan/)  
+Platform mapping corporate ownership networks, shell companies, and financial institutions with AI-driven analytics. It is licensed under AGPLv3.  
+
+- **SignalCredit API**  
+[https://roxanneardary.com/signalcreditapi/](https://roxanneardary.com/signalcreditapi/)  
+A modern open-source, consent-driven credit computation API that generates transparent, explainable financial scoring on demand. It avoids storing permanent credit files and is AGPLv3.  
+
+- **SignalTruth**  
+[https://roxanneardary.com/signaltruth/](https://roxanneardary.com/signaltruth/)  
+An open-source, AGPL 3.0+ commercial real estate intelligence system that transforms public records into a structured, confidence-scored property graph. It includes ownership, market, legal, and completeness analysis.  
+
+- **TollExchange**  
+[https://roxanneardary.com/tollexchange/](https://roxanneardary.com/tollexchange/)  
+An open-source platform that unifies fragmented toll systems into a single interoperable network. It includes a universal account and clearinghouse settlement layer.  
+
+- **UniversalPegFramework**  
+[https://roxanneardary.com/universalpegframework/](https://roxanneardary.com/universalpegframework/)  
+Modular protocol for pegging cryptocurrencies or fiat assets to reference assets with governance and treasury integration. It is licensed AGPLv3.  
+
+- **UrbanLayer**  
+[https://roxanneardary.com/urbanlayer/](https://roxanneardary.com/urbanlayer/)  
+An open-source municipal infrastructure platform for zoning, permitting, GIS analysis, and AI-powered regulatory automation.  
+
+- **VINGuard**  
+[https://roxanneardary.com/vinguard/](https://roxanneardary.com/vinguard/)  
+An open-source VIN-based vehicle transparency platform that aggregates accident history, title status, ownership records, and AI-driven fraud detection. It helps buyers make fully informed used car decisions.  
+
+- **WorkBench**  
+[https://roxanneardary.com/workbench/](https://roxanneardary.com/workbench/)  
+An open-source creator platform for collaboration, secure project management, and transparent monetization. It supports micro-royalties and multi-currency features.
+
+---
+
+## License & Notice Requirements
+
+Open Aresenal Transparency specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Open Arsenal specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+
+ **Open Arsenal Hub**  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
