@@ -45,7 +45,7 @@ An open-source transparency database tracking food brands, detected chemicals, s
 [https://roxanneardary.com/forgeatlas/](https://roxanneardary.com/forgeatlas/)  
 A lifecycle-aware engineering intelligence platform that helps designers and builders create longer-lasting, repairable products. It supports durable design optimization, local-first material sourcing, and real-time market intelligence.  
 
-- **GapVision**  
+- [**GapVision Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/1cb08974a1c90fcde3f00576dbd63c117db4df36/GapVision.md)    
 [https://roxanneardary.com/gapvision/](https://roxanneardary.com/gapvision/)  
 Platform tracking and visualizing compensation data to highlight and close gender pay gaps. It uses AI analytics and is licensed AGPLv3.  
 
