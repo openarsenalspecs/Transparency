@@ -73,7 +73,7 @@ An open-source, real-time global database tracking pharmaceutical recalls, medic
 [https://roxanneardary.com/mit-horizon/](https://roxanneardary.com/mit-horizon/)  
 An open-source research intelligence platform tracking MIT projects, funding, patents, publications, corporate partnerships, and public benefit outcomes. It emphasizes full transparency.  
 
-- **Open_Arsenal**  
+- [**Open_Arsenal Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/039812fa1f05624b1ff5f0cb7e6053db6d53f5db/RepoHub.md)    
 [https://roxanneardary.com/openarsenal/](https://roxanneardary.com/openarsenal/)  
 Collection of open source application, database, program, and hardware concepts. It is designed for discovery and reuse.  
 
