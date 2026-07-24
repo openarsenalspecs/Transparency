@@ -129,7 +129,7 @@ An open-source global pharmaceutical intelligence platform focused on medication
 [https://roxanneardary.com/shared-infrastructure-fund/](https://roxanneardary.com/shared-infrastructure-fund/)  
 An open platform for transparently funding and verifying physical scientific infrastructure. It uses accountable, milestone-based community investment.  
 
-- [**ShellFinder**](https://github.com/openarsenalspecs/Transparency/blob/690d963dff0fce47cf040a65c7245ec73a9878eb/ShellFinder.md)    
+- [**ShellFinder Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/690d963dff0fce47cf040a65c7245ec73a9878eb/ShellFinder.md)    
 [https://roxanneardary.com/shellfinder/](https://roxanneardary.com/shellfinder/)  
 Forensic AI tracking OTC companies, founders, subsidiaries, and assets to uncover hidden ownership structures. It is licensed under AGPLv3.  
 
