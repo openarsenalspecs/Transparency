@@ -25,7 +25,7 @@ Across the specification set, there is a consistent focus on modular governance 
 [https://roxanneardary.com/beekeepers-guide-to-the-universe/](https://roxanneardary.com/beekeepers-guide-to-the-universe/)  
 An open-source AI-powered ecological intelligence platform for designing, simulating, and sustaining pollinator ecosystems. It integrates bee biology, habitat engineering, climate modeling, and visual ecological analysis.  
 
-- **CommonsTruth**  
+- [**CommonsTruth Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/97d1e8a8674c6b904c8a3f6b98767872cc9ebf8d/CommonsTruth.md)    
 [https://roxanneardary.com/commonstruth/](https://roxanneardary.com/commonstruth/)  
 An open-source anonymous reporting platform for documenting and exposing deceptive advertising and consumer fraud. It uses structured, evidence-based submissions from users.  
 
