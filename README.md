@@ -119,7 +119,10 @@ RecordMesh is a modular AI platform that converts jurisdiction-aware legal inten
 
 - **RegistryGuide**  
 [https://roxanneardary.com/registryguide/](https://roxanneardary.com/registryguide/)  
-An open-source vehicle registration, title management, and legal compliance platform. It combines AI-powered assistance, machine-readable law modules, and optional blockchain-backed title verification.  
+An open-source vehicle registration, title management, and legal compliance platform. It combines AI-powered assistance, machine-readable law modules, and optional blockchain-backed title verification.
+
+- [**RepoHub Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/5ace82d670313b28c5cf1974d7ef36a7d2925361/RepoHub.md)  
+The RepoHub Specification (RHS) is an AGPL-3.0+ licensed, modular standard for creating AI-assisted repository hubs that automatically aggregate, organize, and index publicly available repositories, documentation, websites, and related project resources. It provides a vendor-neutral framework for generating searchable directories, structured metadata, knowledge graphs, analytics, provenance records, and other machine-readable data while preserving attribution and supporting long-term interoperability.
 
 - **SafeMeds Index**  
 [https://roxanneardary.com/safemedsindex/](https://roxanneardary.com/safemedsindex/)  
