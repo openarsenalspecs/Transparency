@@ -69,7 +69,7 @@ An open-source platform that structures publicly available financial data into a
 [https://roxanneardary.com/medilens/](https://roxanneardary.com/medilens/)  
 An open-source, real-time global database tracking pharmaceutical recalls, medication safety, and company accountability. It is licensed under AGPLv3.  
 
-- **MIT Horizon**  
+- [**MIT Horizon Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/8fedad49f1c7a65585febc2eeb5916c39e3a3fd9/MIT%20Horizon.md)    
 [https://roxanneardary.com/mit-horizon/](https://roxanneardary.com/mit-horizon/)  
 An open-source research intelligence platform tracking MIT projects, funding, patents, publications, corporate partnerships, and public benefit outcomes. It emphasizes full transparency.  
 
