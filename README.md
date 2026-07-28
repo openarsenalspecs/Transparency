@@ -160,7 +160,7 @@ Modular protocol for pegging cryptocurrencies or fiat assets to reference assets
 [https://roxanneardary.com/urbanlayer/](https://roxanneardary.com/urbanlayer/)  
 An open-source municipal infrastructure platform for zoning, permitting, GIS analysis, and AI-powered regulatory automation.  
 
-- **VINGuard**  
+- [**VINGuard Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/195eb40f70be89a9f8d1f6aa9f624de0c4417b25/VINGuard.md)    
 [https://roxanneardary.com/vinguard/](https://roxanneardary.com/vinguard/)  
 An open-source VIN-based vehicle transparency platform that aggregates accident history, title status, ownership records, and AI-driven fraud detection. It helps buyers make fully informed used car decisions.  
 
