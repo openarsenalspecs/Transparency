@@ -21,7 +21,7 @@ Across the specification set, there is a consistent focus on modular governance 
 
 ## Transparency Specs:  
 
-- **Beekeeper’s Guide to the Universe**  
+- [**Beekeeper’s Guide to the Universe Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/75721e1e018a96b89d0bd96c1d7d286a68985d8a/Beekeeper's%20Guide%20to%20the%20Universe.md)    
 [https://roxanneardary.com/beekeepers-guide-to-the-universe/](https://roxanneardary.com/beekeepers-guide-to-the-universe/)  
 An open-source AI-powered ecological intelligence platform for designing, simulating, and sustaining pollinator ecosystems. It integrates bee biology, habitat engineering, climate modeling, and visual ecological analysis.  
 
