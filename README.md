@@ -113,7 +113,7 @@ AI-driven analytics mapping relationships between birthrates and creativity glob
 [https://roxanneardary.com/purescript/](https://roxanneardary.com/purescript/)  
 An open-source encrypted document writer designed to keep digital writing private, secure, and readable only by authorized humans.  
 
-- **RecordMesh**  
+- [**RecordMesh Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/297abcf3fd0b438164cf6b0867007ffa404f6676/RecordMesh.md)    
 [https://roxanneardary.com/recordmesh/](https://roxanneardary.com/recordmesh/)  
 RecordMesh is a modular AI platform that converts jurisdiction-aware legal intent into real property instruments. It creates county-ready recording packets for real estate filing systems.  
 
