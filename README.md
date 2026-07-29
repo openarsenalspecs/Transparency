@@ -164,7 +164,7 @@ An open-source municipal infrastructure platform for zoning, permitting, GIS ana
 [https://roxanneardary.com/vinguard/](https://roxanneardary.com/vinguard/)  
 An open-source VIN-based vehicle transparency platform that aggregates accident history, title status, ownership records, and AI-driven fraud detection. It helps buyers make fully informed used car decisions.  
 
-- **WorkBench**  
+- [**WorkBench Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/766000e7739a9d8fde9d07642b740cf8373e06b1/WorkBench.md)    
 [https://roxanneardary.com/workbench/](https://roxanneardary.com/workbench/)  
 An open-source creator platform for collaboration, secure project management, and transparent monetization. It supports micro-royalties and multi-currency features.
 
