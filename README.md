@@ -144,7 +144,7 @@ Platform mapping corporate ownership networks, shell companies, and financial in
 [https://roxanneardary.com/signalcreditapi/](https://roxanneardary.com/signalcreditapi/)  
 A modern open-source, consent-driven credit computation API that generates transparent, explainable financial scoring on demand. It avoids storing permanent credit files and is AGPLv3.  
 
-- **SignalTruth**  
+- [**SignalTruth Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/94aa620f8bfc73b6e90c5a7074cc5283f588cf19/SignalTruth.md)    
 [https://roxanneardary.com/signaltruth/](https://roxanneardary.com/signaltruth/)  
 An open-source, AGPL 3.0+ commercial real estate intelligence system that transforms public records into a structured, confidence-scored property graph. It includes ownership, market, legal, and completeness analysis.  
 
