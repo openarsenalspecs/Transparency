@@ -33,7 +33,7 @@ An open-source anonymous reporting platform for documenting and exposing decepti
 [https://roxanneardary.com/eneragent/](https://roxanneardary.com/eneragent/)  
 AI energy management platform optimizing usage, forecasting, and sustainability. It is licensed under AGPLv3.  
 
-- **Feedback Living Model**  
+- [**Feedback Living Model Specification**](https://github.com/openarsenalspecs/Transparency/blob/270a2ce2af345cd5bd70c515de3e1e43e4f324c3/Feedback%20Living%20Model.md)    
 [https://roxanneardary.com/feedback-living-model/](https://roxanneardary.com/feedback-living-model/)  
 A systemic intelligence framework that models markets as evolving feedback organisms. It analyzes structural fragility, capital flows, and cascade-driven economic behavior.  
 
