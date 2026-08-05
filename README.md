@@ -41,7 +41,7 @@ A systemic intelligence framework that models markets as evolving feedback organ
 [https://roxanneardary.com/foodlab/](https://roxanneardary.com/foodlab/)  
 An open-source transparency database tracking food brands, detected chemicals, scientific studies, and related legislation. It provides fully traceable, evidence-based insight into food safety and is AGPLv3.  
 
-- **ForgeAtlas**  
+- [**ForgeAtlas Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/ca7913434b7086507ab8f3859d0a68d0ca827f71/ForgeAtlas.md)    
 [https://roxanneardary.com/forgeatlas/](https://roxanneardary.com/forgeatlas/)  
 A lifecycle-aware engineering intelligence platform that helps designers and builders create longer-lasting, repairable products. It supports durable design optimization, local-first material sourcing, and real-time market intelligence.  
 
