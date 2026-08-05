@@ -148,7 +148,7 @@ A modern open-source, consent-driven credit computation API that generates trans
 [https://roxanneardary.com/signaltruth/](https://roxanneardary.com/signaltruth/)  
 An open-source, AGPL 3.0+ commercial real estate intelligence system that transforms public records into a structured, confidence-scored property graph. It includes ownership, market, legal, and completeness analysis.  
 
-- **TollExchange**  
+- [**TollExchange Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/341cd5b5d967728df04ec78f19ab285df85f1f14/TollExchange.md)    
 [https://roxanneardary.com/tollexchange/](https://roxanneardary.com/tollexchange/)  
 An open-source platform that unifies fragmented toll systems into a single interoperable network. It includes a universal account and clearinghouse settlement layer.  
 
