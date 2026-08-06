@@ -77,7 +77,7 @@ An open-source research intelligence platform tracking MIT projects, funding, pa
 [https://roxanneardary.com/openarsenal/](https://roxanneardary.com/openarsenal/)  
 Collection of open source application, database, program, and hardware concepts. It is designed for discovery and reuse.  
 
-- **OpenDiagnose**  
+- [**OpenDiagnose Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/b2ad770b415fa5c0ea0e4bedd0e24e1d1ee87280/OpenDiagnose.md)    
 [https://roxanneardary.com/opendiagnose/](https://roxanneardary.com/opendiagnose/)  
 A modular, AGPL-3.0+ diagnostic system that turns real-world visual input into structured, actionable repair guidance. It uses interchangeable hardware, AI models, and knowledge packs.  
 
