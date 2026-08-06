@@ -93,7 +93,7 @@ An open-source civic transparency platform that tracks highway funding from reve
 [https://roxanneardary.com/openlabor-model/](https://roxanneardary.com/openlabor-model/)  
 An open-source framework that converts complex compensation structures into transparent, comparable economic value. It normalizes wages, benefits, taxes, and cost of living into a real effective hourly rate under AGPLv3.
 
-- **OrbitReasoning Core**  
+- [**OrbitReasoning Core Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/ab4954c766ffd61f78cfc37ca72a7a3ce0655d84/OrbitReasoning%20Core.md)    
 [https://roxanneardary.com/orbitreasoning-core/](https://roxanneardary.com/orbitreasoning-core/)  
 OrbitReasoning Core is an autonomous AI Network Operations Center for satellites, spacecraft, and aerospace systems that uses simulation-first reasoning to compute outcomes rather than simply observe states. It processes real-time telemetry into orbital state models and generates governed, explainable decisions for anomaly detection, collision avoidance, and large-scale constellation optimization.  
 
