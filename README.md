@@ -27,7 +27,11 @@ An open-source AI-powered ecological intelligence platform for designing, simula
 
 - [**CommonsTruth Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/97d1e8a8674c6b904c8a3f6b98767872cc9ebf8d/CommonsTruth.md)    
 [https://roxanneardary.com/commonstruth/](https://roxanneardary.com/commonstruth/)  
-An open-source anonymous reporting platform for documenting and exposing deceptive advertising and consumer fraud. It uses structured, evidence-based submissions from users.  
+An open-source anonymous reporting platform for documenting and exposing deceptive advertising and consumer fraud. It uses structured, evidence-based submissions from users.
+
+- [**EdgeLens Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/d415c65c27ddfa0af2a03f2a156922e037892bf9/EdgeLens.md)  
+[https://roxanneardary.com/edgelens/](https://roxanneardary.com/edgelens/)   
+EdgeLens is an open specification for privacy-preserving, edge-first computer vision systems that enable secure local processing while supporting scalable deployments from individual devices to enterprise infrastructures. It provides modular vision pipelines, federated learning, verification workflows, and provenance tracking to help organizations improve AI models without exposing sensitive visual data.  
 
 - **EnerAgent**  
 [https://roxanneardary.com/eneragent/](https://roxanneardary.com/eneragent/)  
