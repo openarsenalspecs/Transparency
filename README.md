@@ -93,7 +93,7 @@ An open-source, privacy-first platform for securely documenting consumer complai
 [https://roxanneardary.com/openhighway/](https://roxanneardary.com/openhighway/)  
 An open-source civic transparency platform that tracks highway funding from revenue sources through contracts and spending. It follows through to final infrastructure delivery.  
 
-- **OpenLabor Model**  
+- [**OpenLabor Model Specification**](https://github.com/openarsenalspecs/Transparency/blob/c7e69e1ffb00b086cf0c1253544656a854c306b8/OpenLabor%20Model.md)    
 [https://roxanneardary.com/openlabor-model/](https://roxanneardary.com/openlabor-model/)  
 An open-source framework that converts complex compensation structures into transparent, comparable economic value. It normalizes wages, benefits, taxes, and cost of living into a real effective hourly rate under AGPLv3.
 
