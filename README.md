@@ -57,7 +57,7 @@ Platform tracking and visualizing compensation data to highlight and close gende
 [https://roxanneardary.com/gitpatrol/](https://roxanneardary.com/gitpatrol/)  
 An open-source AI that enforces license compliance, tracks attribution, and ensures minimal, token-efficient files in Git repositories. It is licensed under AGPLv3.  
 
-- **GreenMile**  
+- [**GreenMile Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/284e0f693da950b32cd4a487a3288f9860935447/GreenMile.md)    
 [https://roxanneardary.com/greenmile/](https://roxanneardary.com/greenmile/)  
 An open-source CO₂e calculator for measuring, tracking, and reducing travel-related carbon emissions. It focuses on Scope 3 business travel analytics and reporting under AGPLv3.  
 
