@@ -41,7 +41,7 @@ AI energy management platform optimizing usage, forecasting, and sustainability.
 [https://roxanneardary.com/feedback-living-model/](https://roxanneardary.com/feedback-living-model/)  
 A systemic intelligence framework that models markets as evolving feedback organisms. It analyzes structural fragility, capital flows, and cascade-driven economic behavior.  
 
-- **FoodLab**  
+- [**FoodLab Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/e934ca67eea7edbb17ba392a97309f681674a87c/FoodLab.md)    
 [https://roxanneardary.com/foodlab/](https://roxanneardary.com/foodlab/)  
 An open-source transparency database tracking food brands, detected chemicals, scientific studies, and related legislation. It provides fully traceable, evidence-based insight into food safety and is AGPLv3.  
 
