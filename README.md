@@ -53,7 +53,7 @@ A lifecycle-aware engineering intelligence platform that helps designers and bui
 [https://roxanneardary.com/gapvision/](https://roxanneardary.com/gapvision/)  
 Platform tracking and visualizing compensation data to highlight and close gender pay gaps. It uses AI analytics and is licensed AGPLv3.  
 
-- **GitPatrol**  
+- [**GitPatrol Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/b9bcba1fc50ed8c3a5490d493355ef6127f4c630/GitPatrol.md)    
 [https://roxanneardary.com/gitpatrol/](https://roxanneardary.com/gitpatrol/)  
 An open-source AI that enforces license compliance, tracks attribution, and ensures minimal, token-efficient files in Git repositories. It is licensed under AGPLv3.  
 
