@@ -61,7 +61,7 @@ An open-source AI that enforces license compliance, tracks attribution, and ensu
 [https://roxanneardary.com/greenmile/](https://roxanneardary.com/greenmile/)  
 An open-source CO₂e calculator for measuring, tracking, and reducing travel-related carbon emissions. It focuses on Scope 3 business travel analytics and reporting under AGPLv3.  
 
-- **InstantIndex**  
+- [**InstantIndex Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/aba460d2d8ed8b793cfa2667c59809c28ddd11b7/InstantIndex.md)    
 [https://roxanneardary.com/instantindex/](https://roxanneardary.com/instantindex/)  
 Privacy-first, locally hosted search engine with adaptive AI learning and optional reward modules. It is licensed AGPLv3.  
 
