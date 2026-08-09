@@ -113,7 +113,7 @@ An open source, identity-first AI platform that preserves a user’s authentic v
 [https://roxanneardary.com/personaventure/](https://roxanneardary.com/personaventure/)  
 An open-source AI platform that helps individuals turn their unique skills, talents, hobbies, and passions into successful micro-businesses. It follows the guiding principle AI + You = Success under AGPLv3.  
 
-- **PopMuseData**  
+- [**PopMuseData Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/b47b2694c7211845c3baf8afe1d7bb1d3fdcd41a/PopMuse%20Data.md)    
 [https://roxanneardary.com/popmusedata/](https://roxanneardary.com/popmusedata/)  
 AI-driven analytics mapping relationships between birthrates and creativity globally. It is licensed under AGPLv3.  
 
