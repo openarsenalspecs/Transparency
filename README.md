@@ -160,7 +160,7 @@ An open-source, AGPL 3.0+ commercial real estate intelligence system that transf
 [https://roxanneardary.com/tollexchange/](https://roxanneardary.com/tollexchange/)  
 An open-source platform that unifies fragmented toll systems into a single interoperable network. It includes a universal account and clearinghouse settlement layer.  
 
-- **UniversalPegFramework**  
+- [**UniversalPegFramework Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/98416c54d2237eacf23a229c3451039be93e7b4f/Universal%20Peg%20Framework.md)    
 [https://roxanneardary.com/universalpegframework/](https://roxanneardary.com/universalpegframework/)  
 Modular protocol for pegging cryptocurrencies or fiat assets to reference assets with governance and treasury integration. It is licensed AGPLv3.  
 
