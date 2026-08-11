@@ -144,7 +144,7 @@ An open platform for transparently funding and verifying physical scientific inf
 [https://roxanneardary.com/shellfinder/](https://roxanneardary.com/shellfinder/)  
 Forensic AI tracking OTC companies, founders, subsidiaries, and assets to uncover hidden ownership structures. It is licensed under AGPLv3.  
 
-- **ShellScan**  
+- [**ShellScan Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/a5766e9e427da1d68324ce885342f1c19162eafc/ShellScan.md)    
 [https://roxanneardary.com/shellscan/](https://roxanneardary.com/shellscan/)  
 Platform mapping corporate ownership networks, shell companies, and financial institutions with AI-driven analytics. It is licensed under AGPLv3.  
 
