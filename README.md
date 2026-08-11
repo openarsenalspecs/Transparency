@@ -65,7 +65,7 @@ An open-source CO₂e calculator for measuring, tracking, and reducing travel-re
 [https://roxanneardary.com/instantindex/](https://roxanneardary.com/instantindex/)  
 Privacy-first, locally hosted search engine with adaptive AI learning and optional reward modules. It is licensed AGPLv3.  
 
-- **Ledger Watch**  
+- [**Ledger Watch Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/59967ce3089e3301e8dec277dc246b46cdf02191/Ledger%20Watch.md)    
 [https://roxanneardary.com/ledgerwatch/](https://roxanneardary.com/ledgerwatch/)  
 An open-source platform that structures publicly available financial data into a transparent, verifiable system. It analyzes market activity, relationships, and patterns under AGPLv3.  
 
