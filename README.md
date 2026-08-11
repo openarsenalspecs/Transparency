@@ -148,7 +148,7 @@ Forensic AI tracking OTC companies, founders, subsidiaries, and assets to uncove
 [https://roxanneardary.com/shellscan/](https://roxanneardary.com/shellscan/)  
 Platform mapping corporate ownership networks, shell companies, and financial institutions with AI-driven analytics. It is licensed under AGPLv3.  
 
-- **SignalCredit API**  
+- [**SignalCredit API Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/180510ef0eb4184e1ef3dda9beab39f6317b0423/SignalTruth.md)    
 [https://roxanneardary.com/signalcreditapi/](https://roxanneardary.com/signalcreditapi/)  
 A modern open-source, consent-driven credit computation API that generates transparent, explainable financial scoring on demand. It avoids storing permanent credit files and is AGPLv3.  
 
