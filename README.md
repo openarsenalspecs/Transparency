@@ -158,7 +158,11 @@ A modern open-source, consent-driven credit computation API that generates trans
 
 - [**SignalTruth Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/94aa620f8bfc73b6e90c5a7074cc5283f588cf19/SignalTruth.md)    
 [https://roxanneardary.com/signaltruth/](https://roxanneardary.com/signaltruth/)  
-An open-source, AGPL 3.0+ commercial real estate intelligence system that transforms public records into a structured, confidence-scored property graph. It includes ownership, market, legal, and completeness analysis.  
+An open-source, AGPL 3.0+ commercial real estate intelligence system that transforms public records into a structured, confidence-scored property graph. It includes ownership, market, legal, and completeness analysis.
+
+- [**The Better Path**](https://github.com/openarsenalspecs/Transparency/blob/1b0f1dc890e451f79c6484ecbb9fb8b6d16e318c/The%20Better%20Path.md)  
+[https://roxanneardary.com/the-better-path/](https://roxanneardary.com/the-better-path/)  
+The Better Path is an open source AI specification that connects the Stations of the Cross with the Hero's Journey to help people reflect on challenges, awaken new possibilities, and choose a meaningful path forward. It transforms reflection into growth, mission, and action while seeking win/win outcomes that advance both individuals and society.  
 
 - [**TollExchange Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/341cd5b5d967728df04ec78f19ab285df85f1f14/TollExchange.md)    
 [https://roxanneardary.com/tollexchange/](https://roxanneardary.com/tollexchange/)  
