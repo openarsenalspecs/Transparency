@@ -136,7 +136,7 @@ An open-source vehicle registration, title management, and legal compliance plat
 - [**RepoHub Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/5ace82d670313b28c5cf1974d7ef36a7d2925361/RepoHub.md)  
 The RepoHub Specification (RHS) is an AGPL-3.0+ licensed, modular standard for creating AI-assisted repository hubs that automatically aggregate, organize, and index publicly available repositories, documentation, websites, and related project resources. It provides a vendor-neutral framework for generating searchable directories, structured metadata, knowledge graphs, analytics, provenance records, and other machine-readable data while preserving attribution and supporting long-term interoperability.
 
-- **SafeMeds Index**  
+- [**SafeMeds Index Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/15cedefa263aba40d9af5ddab536228b249e02ce/SafeMeds%20Index.md)    
 [https://roxanneardary.com/safemedsindex/](https://roxanneardary.com/safemedsindex/)  
 An open-source global pharmaceutical intelligence platform focused on medication price transparency, manufacturer tracking, recall monitoring, and evidence-based therapeutic alternatives.  
 
