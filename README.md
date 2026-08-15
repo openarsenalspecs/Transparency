@@ -89,7 +89,7 @@ Collection of open source application, database, program, and hardware concepts.
 [https://roxanneardary.com/opendiagnose/](https://roxanneardary.com/opendiagnose/)  
 A modular, AGPL-3.0+ diagnostic system that turns real-world visual input into structured, actionable repair guidance. It uses interchangeable hardware, AI models, and knowledge packs.  
 
-- **OpenGrievance**  
+- [**OpenGrievance Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/deccf19a13047daf9c3ebef8e20c82ec16799b5b/OpenGrievance.md)    
 [https://roxanneardary.com/opengrievance/](https://roxanneardary.com/opengrievance/)  
 An open-source, privacy-first platform for securely documenting consumer complaints. It detects patterns of corporate misconduct and supports transparency, accountability, and potential legal action.  
 
