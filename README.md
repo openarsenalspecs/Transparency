@@ -140,7 +140,7 @@ The RepoHub Specification (RHS) is an AGPL-3.0+ licensed, modular standard for c
 [https://roxanneardary.com/safemedsindex/](https://roxanneardary.com/safemedsindex/)  
 An open-source global pharmaceutical intelligence platform focused on medication price transparency, manufacturer tracking, recall monitoring, and evidence-based therapeutic alternatives.  
 
-- [**Shared Infrastructure Fund Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/3b4d2edfa9ea87ff833de81e49ac05e34a43cbf4/Shared%20Infrastructure%20Fund.md)    
+- [**Shared Infrastructure Fund Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/db89eddf20d43281383816775052fd7247456c0e/Shared%20Infrastructure%20Fund.md)  
 [https://roxanneardary.com/shared-infrastructure-fund/](https://roxanneardary.com/shared-infrastructure-fund/)  
 An open platform for transparently funding and verifying physical scientific infrastructure. It uses accountable, milestone-based community investment.  
 
