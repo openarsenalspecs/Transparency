@@ -172,7 +172,7 @@ An open-source platform that unifies fragmented toll systems into a single inter
 [https://roxanneardary.com/universalpegframework/](https://roxanneardary.com/universalpegframework/)  
 Modular protocol for pegging cryptocurrencies or fiat assets to reference assets with governance and treasury integration. It is licensed AGPLv3.  
 
-- [**UrbanLayer Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/6e60a54fcfb2b93cac8ddbe56f5634d3576fe5b8/UrbanLayer.md)     
+- [**UrbanLayer Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/7d764652041d5779c9e68283fa01b8adc5d605a9/UrbanLayer.md)  
 [https://roxanneardary.com/urbanlayer/](https://roxanneardary.com/urbanlayer/)  
 An open-source municipal infrastructure platform for zoning, permitting, GIS analysis, and AI-powered regulatory automation.  
 
