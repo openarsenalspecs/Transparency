@@ -121,7 +121,7 @@ An open-source AI platform that helps individuals turn their unique skills, tale
 [https://roxanneardary.com/popmusedata/](https://roxanneardary.com/popmusedata/)  
 AI-driven analytics mapping relationships between birthrates and creativity globally. It is licensed under AGPLv3.  
 
-- [**PureScript Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/b31115eb406f65dac52cd6aeacd61898e60506be/PureScript.md)    
+- [**PureScript Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/2122885be4ea6dc44696ce85849c9f6edd1e671b/PureScript.md)  
 [https://roxanneardary.com/purescript/](https://roxanneardary.com/purescript/)  
 An open-source encrypted document writer designed to keep digital writing private, secure, and readable only by authorized humans.  
 
