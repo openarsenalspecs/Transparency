@@ -105,7 +105,7 @@ An open-source framework that converts complex compensation structures into tran
 [https://roxanneardary.com/orbitreasoning-core/](https://roxanneardary.com/orbitreasoning-core/)  
 OrbitReasoning Core is an autonomous AI Network Operations Center for satellites, spacecraft, and aerospace systems that uses simulation-first reasoning to compute outcomes rather than simply observe states. It processes real-time telemetry into orbital state models and generates governed, explainable decisions for anomaly detection, collision avoidance, and large-scale constellation optimization.  
 
-- [**PayInsight Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/26da304dedd30fa302bb919fae408fc245a0ee2e/PayInsight.md)    
+- [**PayInsight Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/c32ac7ea61334259ac982d6d7f97763c4c3a726c/PayInsight.md)  
 [https://roxanneardary.com/payinsight/](https://roxanneardary.com/payinsight/)  
 An open-source, privacy-first job platform that uses AI to provide transparent salary insights. It includes cost-of-living analysis and fair compensation guidance for job seekers and employers.  
 
