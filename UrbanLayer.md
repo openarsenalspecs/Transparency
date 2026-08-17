@@ -1,28 +1,16 @@
-# UrbanLayer Specification
-
+# UrbanLayer
 **City regulations, instantly understood.**
+- HTML Mirror:  [https://roxanneardary.com/urbanlayer-specification/](https://roxanneardary.com/urbanlayer-specification/)
 
-## Specification Status
+---
+
+## Specification
 
 UrbanLayer is an open-source municipal infrastructure specification for converting zoning laws, permitting requirements, planning regulations, and municipal spatial data into structured, machine-readable systems.
 
 UrbanLayer is designed as a municipality-centric platform. Each municipality can maintain its own regulatory rules, permit types, workflows, geographic data, and administrative requirements while using a shared core architecture.
 
 The specification is modular and extensible. Core modules define the foundational capabilities required by the platform. Optional plugin modules provide additional capabilities that municipalities may enable according to their needs.
-
-## Vision
-
-UrbanLayer establishes a digital regulatory layer for municipalities where city regulations become:
-
-- Machine-readable
-- Searchable
-- Testable
-- Traceable
-- Versioned
-- Explainable
-- Automatable
-
-The system is intended to make municipal regulations easier for residents, planners, administrators, developers, and other authorized users to understand and work with.
 
 ## Design Principles
 
@@ -42,6 +30,8 @@ UrbanLayer shall follow these principles:
 - Local-first deployment capability
 - Transparent compliance analysis
 - Configurable municipal workflows
+
+---
 
 ## Core Modules
 
@@ -690,98 +680,6 @@ Where applicable, results should identify:
 - Conditions
 - Human review requirements
 
-## Open Governance
-
-UrbanLayer shall support an open-source development model that allows municipalities, developers, planners, GIS specialists, and civic technologists to contribute improvements.
-
-Municipal regulatory authority shall remain with the applicable municipality.
-
-Shared software modules, rule formats, schemas, and technical standards may be collaboratively developed without transferring municipal regulatory authority.
-
-## Extensibility
-
-UrbanLayer shall support modular expansion through:
-
-- Core modules
-- Optional plugins
-- APIs
-- Data adapters
-- Rule-language extensions
-- GIS integrations
-- AI integrations
-- Municipal configuration modules
-
-Plugins should interact with defined interfaces and avoid unnecessary changes to the core system.
-
-## Interoperability
-
-UrbanLayer should support open and commonly used standards for:
-
-- Geographic data
-- Structured data
-- Documents
-- APIs
-- Regulatory rules
-- Municipal records
-
-Municipalities should be able to import and export their data without being dependent on a single vendor.
-
-## Deployment Models
-
-UrbanLayer may support:
-
-- Municipal self-hosting
-- Municipal cloud deployment
-- Private infrastructure
-- Regional hosting
-- County-supported deployments
-- Hybrid deployments
-- Local-first deployments
-
-Each municipality shall retain control over its deployment configuration and applicable data.
-
-## Use Cases
-
-UrbanLayer may support:
-
-- Building permits
-- Accessory structure permits
-- Fence permits
-- Driveway permits
-- Sign permits
-- Tree removal permits
-- Demolition permits
-- Occupancy permits
-- Business licensing
-- Zoning compliance
-- Land-use analysis
-- Planning workflows
-- Development scenario analysis
-- Regulatory research
-- Public zoning guidance
-
-## Benefits
-
-UrbanLayer is intended to help municipalities:
-
-- Reduce administrative workload
-- Reduce unnecessary permit delays
-- Improve regulatory transparency
-- Improve public access to municipal rules
-- Standardize regulatory data
-- Modernize permitting workflows
-- Improve spatial analysis
-- Preserve regulatory history
-- Provide clearer compliance guidance
-- Reduce avoidable application errors
-- Maintain local control over municipal regulations
-
----
-
-# UrbanLayer
-
-**City regulations, instantly understood.**  
-
 ---
 
 ## Specification Branding License (SBL)
@@ -811,7 +709,7 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- UrbanLayer specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- UrbanLayer specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`.
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
