@@ -1,4 +1,8 @@
 # SafeMeds Index Specification
+**Powering insight across the world of medicine.**
+- HTML Mirror:  [https://roxanneardary.com/safemeds-index-specification/](https://roxanneardary.com/safemeds-index-specification/)  
+
+---
 
 ## Overview
 
@@ -10,11 +14,7 @@ SafeMeds Index is designed to help individuals, researchers, healthcare professi
 
 The mission of SafeMeds Index is to make pharmaceutical information more transparent and accessible by connecting fragmented global data into a unified intelligence system.
 
-### Brand
-
-**SafeMeds Index**
-
-*Powering insight across the world of medicine.*
+---
 
 ## Design Principles
 
@@ -49,6 +49,8 @@ AI-generated classifications, summaries, recommendations, and risk assessments s
 ### Safety
 
 SafeMeds Index shall present pharmaceutical information as informational intelligence rather than a substitute for professional medical diagnosis, prescribing, or treatment decisions.
+
+---
 
 ## Core Modules
 
@@ -916,7 +918,7 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- SafeMeds Index specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- SafeMeds Index specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
