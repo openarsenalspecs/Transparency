@@ -1,6 +1,8 @@
 # PayInsight Specification
-
 **Smart Insights for Fair Compensation**
+- HTML Mirror:  [https://roxanneardary.com/payinsight-specification/](https://roxanneardary.com/payinsight-specification/)
+
+---
 
 ## Overview
 
@@ -29,6 +31,8 @@ PayInsight is designed as a modular platform. Core employment, privacy, search, 
 - Transparent employment practices
 - Fair compensation awareness
 - Candidate and employer autonomy
+
+---
 
 ## Core Modules
 
@@ -505,6 +509,8 @@ Capabilities include:
 
 Analytics shall use data minimization and aggregation techniques where appropriate.
 
+---
+
 ## Optional Plugin Modules
 
 ### Learning Provider Plugin
@@ -606,6 +612,8 @@ Provides structured exports using interoperable formats for candidates, employer
 ### Federation Plugin
 
 Allows independently operated PayInsight instances to exchange compatible public employment information without requiring a centralized platform.
+
+---
 
 ## AI Governance
 
@@ -858,10 +866,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- PayInsight specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- PayInsight specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
