@@ -1,6 +1,8 @@
 # Shared Infrastructure Fund
-
 **Where Science Infrastructure Begins.**
+- HTML Mirror: [https://roxanneardary.com/shared-infrastructure-fund-specification/](https://roxanneardary.com/shared-infrastructure-fund-specification/)
+
+---
 
 ## Specification
 
@@ -76,6 +78,8 @@ The platform shall prioritize infrastructure that can provide ongoing scientific
 The platform shall support compliance with applicable United States federal, state, and local laws and regulations.
 
 The platform shall not assume that a contribution is legally a donation, investment, membership interest, security, or other financial instrument. The applicable legal structure and regulatory requirements shall be established for each funding model and project.
+
+---
 
 ## Core Modules
 
@@ -588,6 +592,8 @@ Notifications may include:
 - Distribution events
 - Project completion
 
+---
+
 ## Optional Plugin Modules
 
 Optional plugins shall extend the platform without making specialized functionality mandatory for every deployment.
@@ -870,10 +876,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- Shared Infrastructure Fund specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- Shared Infrastructure Fund specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
