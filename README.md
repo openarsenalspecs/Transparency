@@ -125,7 +125,7 @@ AI-driven analytics mapping relationships between birthrates and creativity glob
 [https://roxanneardary.com/purescript/](https://roxanneardary.com/purescript/)  
 An open-source encrypted document writer designed to keep digital writing private, secure, and readable only by authorized humans.
 
-- [**PurposeHarness Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/3f956935fac430a5733b7ab34e77761e6e012760/PurposeHarness.md)
+- [**PurposeHarness Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/3f956935fac430a5733b7ab34e77761e6e012760/PurposeHarness.md)  
 [https://roxanneardary.com/purposeharness/](https://roxanneardary.com/purposeharness/)
 PurposeHarness is a universal, modular AI and agent harness constructor that transforms natural-language requirements into adaptable, purpose-built harnesses for any industry, workflow, task, or environment. It automatically identifies and incorporates necessary capabilities, legal and regulatory considerations, consent, governance, security, and human-in-the-loop controls while remaining accessible to beginners and configurable for advanced users.  
 
