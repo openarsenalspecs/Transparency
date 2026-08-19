@@ -123,7 +123,11 @@ AI-driven analytics mapping relationships between birthrates and creativity glob
 
 - [**PureScript Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/2122885be4ea6dc44696ce85849c9f6edd1e671b/PureScript.md)  
 [https://roxanneardary.com/purescript/](https://roxanneardary.com/purescript/)  
-An open-source encrypted document writer designed to keep digital writing private, secure, and readable only by authorized humans.  
+An open-source encrypted document writer designed to keep digital writing private, secure, and readable only by authorized humans.
+
+- [**PurposeHarness Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/3f956935fac430a5733b7ab34e77761e6e012760/PurposeHarness.md)
+[https://roxanneardary.com/purposeharness/](https://roxanneardary.com/purposeharness/)
+PurposeHarness is a universal, modular AI and agent harness constructor that transforms natural-language requirements into adaptable, purpose-built harnesses for any industry, workflow, task, or environment. It automatically identifies and incorporates necessary capabilities, legal and regulatory considerations, consent, governance, security, and human-in-the-loop controls while remaining accessible to beginners and configurable for advanced users.  
 
 - [**RecordMesh Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/297abcf3fd0b438164cf6b0867007ffa404f6676/RecordMesh.md)    
 [https://roxanneardary.com/recordmesh/](https://roxanneardary.com/recordmesh/)  
