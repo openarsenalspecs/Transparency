@@ -60,7 +60,6 @@ Platform tracking and visualizing compensation data to highlight and close gende
 - [**GitPatrol Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/b9bcba1fc50ed8c3a5490d493355ef6127f4c630/GitPatrol.md)    
 [https://roxanneardary.com/gitpatrol/](https://roxanneardary.com/gitpatrol/)  
 An open-source AI that enforces license compliance, tracks attribution, and ensures minimal, token-efficient files in Git repositories. It is licensed under AGPLv3.  
-
 - [**GreenMile Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/284e0f693da950b32cd4a487a3288f9860935447/GreenMile.md)    
 [https://roxanneardary.com/greenmile/](https://roxanneardary.com/greenmile/)  
 An open-source CO₂e calculator for measuring, tracking, and reducing travel-related carbon emissions. It focuses on Scope 3 business travel analytics and reporting under AGPLv3.  
@@ -79,7 +78,11 @@ An open-source, real-time global database tracking pharmaceutical recalls, medic
 
 - [**MIT Horizon Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/8fedad49f1c7a65585febc2eeb5916c39e3a3fd9/MIT%20Horizon.md)    
 [https://roxanneardary.com/mit-horizon/](https://roxanneardary.com/mit-horizon/)  
-An open-source research intelligence platform tracking MIT projects, funding, patents, publications, corporate partnerships, and public benefit outcomes. It emphasizes full transparency.  
+An open-source research intelligence platform tracking MIT projects, funding, patents, publications, corporate partnerships, and public benefit outcomes. It emphasizes full transparency.
+
+- [**ModelTrade Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/ad7bebde2705e5411d7740146344987055fb89c2/ModelTrade.md)  
+[https://roxanneardary.com/modeltrade/](https://roxanneardary.com/modeltrade/)  
+ModelTrade, The AI Trade Network, is a federated, open source marketplace for publishing, discovering, licensing, buying, selling, reviewing, and rating AI models, datasets, applications, and related projects. With user profiles, personal storefronts, federated search, built-in reviews and ratings, provenance, licensing, and modular commerce features, ModelTrade provides an interoperable foundation for a decentralized AI economy.  
 
 - [**Open_Arsenal Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/039812fa1f05624b1ff5f0cb7e6053db6d53f5db/RepoHub.md)    
 [https://roxanneardary.com/openarsenal/](https://roxanneardary.com/openarsenal/)  
