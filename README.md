@@ -70,7 +70,11 @@ Privacy-first, locally hosted search engine with adaptive AI learning and option
 
 - [**Ledger Watch Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/59967ce3089e3301e8dec277dc246b46cdf02191/Ledger%20Watch.md)    
 [https://roxanneardary.com/ledgerwatch/](https://roxanneardary.com/ledgerwatch/)  
-An open-source platform that structures publicly available financial data into a transparent, verifiable system. It analyzes market activity, relationships, and patterns under AGPLv3.  
+An open-source platform that structures publicly available financial data into a transparent, verifiable system. It analyzes market activity, relationships, and patterns under AGPLv3.
+
+- [**LocalAI Builder Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/379e3e94881b1284adee6260f444d0efb007a609/LocalAI%20Builder.md)  
+[https://roxanneardary.com/localai-builder/](https://roxanneardary.com/localai-builder/)  
+LocalAI Builder is an open source AI-powered system for discovering, comparing, evaluating, and recommending AI models, datasets, specifications, software, hardware, blueprints, machinery, and other resources for locally hosted projects. It analyzes pricing, licensing, compatibility, skill requirements, and total cost while prioritizing perpetual ownership and helping users build practical systems without unnecessary subscriptions.
 
 - **MediLens**  
 [https://roxanneardary.com/medilens/](https://roxanneardary.com/medilens/)  
