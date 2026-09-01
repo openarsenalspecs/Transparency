@@ -430,6 +430,399 @@ Provides public-facing auction information, transparency dashboards, historical 
 
 Provides controlled access for independent auditors and verification organizations without granting authority to modify the underlying ledger.
 
+## Optional Auction Plugin Modules
+
+OpenBid Ledger supports optional auction plugins that adapt the core auction, bid ledger, verification, audit, billing, settlement, and governance capabilities to additional auction markets.
+
+Each plugin must operate within the core transparency, immutability, auditability, and host-accountability requirements of OpenBid Ledger. Plugins may introduce market-specific rules and data fields but must not weaken or bypass immutable auction records or create undisclosed host control over auction outcomes.
+
+### Art Auction Plugin
+
+Supports auctions for paintings, sculptures, photography, digital art, collectibles, and other artistic works.
+
+Features include:
+
+- Artwork registration
+- Artist identification
+- Ownership records
+- Provenance records
+- Artwork descriptions
+- Condition records
+- Authentication records
+- Reserve prices
+- Bid management
+- Auction catalogs
+- Winning bid records
+- Buyer records
+- Seller records
+- Commission calculations
+- Settlement records
+- Provenance history
+- Immutable auction records
+
+### Collectibles Auction Plugin
+
+Supports auctions for collectible physical and digital items.
+
+Features include:
+
+- Item registration
+- Category classification
+- Item condition
+- Authentication
+- Ownership history
+- Rarity information
+- Reserve prices
+- Bid management
+- Auction results
+- Buyer and seller records
+- Fees
+- Settlement
+- Provenance tracking
+
+### Real Estate Auction Plugin
+
+Supports auctions for real property and related property interests.
+
+Features include:
+
+- Property registration
+- Property identification
+- Seller identification
+- Property documentation
+- Auction terms
+- Bid registration
+- Deposit requirements
+- Reserve prices
+- Bid eligibility
+- Winning bid records
+- Buyer records
+- Seller records
+- Closing conditions
+- Settlement records
+- Transaction history
+- Immutable auction records
+
+### Vehicle Auction Plugin
+
+Supports auctions for automobiles, trucks, motorcycles, recreational vehicles, boats, and other vehicles.
+
+Features include:
+
+- Vehicle identification
+- Vehicle history
+- Ownership records
+- Condition reports
+- Inspection records
+- Mileage records
+- Authentication
+- Reserve prices
+- Bid management
+- Auction results
+- Buyer records
+- Seller records
+- Fees
+- Settlement records
+
+### Equipment Auction Plugin
+
+Supports auctions for industrial, agricultural, construction, commercial, and specialized equipment.
+
+Features include:
+
+- Equipment registration
+- Manufacturer information
+- Model information
+- Serial number records
+- Condition reports
+- Inspection records
+- Maintenance history
+- Ownership records
+- Reserve prices
+- Bid management
+- Auction results
+- Buyer and seller records
+- Settlement records
+
+### Domain Name Auction Plugin
+
+Supports auctions for internet domain names and other transferable digital naming assets.
+
+Features include:
+
+- Domain registration
+- Ownership verification
+- Domain history
+- Expiration information
+- Transfer eligibility
+- Reserve prices
+- Bid management
+- Auction results
+- Transfer records
+- Buyer and seller records
+- Settlement records
+- Immutable ownership events
+
+### Intellectual Property Auction Plugin
+
+Supports auctions involving transferable intellectual property rights where legally permissible.
+
+Features include:
+
+- Asset registration
+- Rights identification
+- Ownership records
+- Licensing status
+- Geographic scope
+- Duration
+- Restrictions
+- Encumbrances
+- Bid management
+- Reserve prices
+- Auction results
+- Transfer records
+- Settlement records
+- Immutable rights history
+
+### Ticket Auction Plugin
+
+Supports auctions for tickets, admissions, reservations, and transferable access rights.
+
+Features include:
+
+- Event identification
+- Ticket identification
+- Seat or access information
+- Original issuer
+- Transfer restrictions
+- Bid management
+- Auction rules
+- Winning bid
+- Transfer records
+- Fees
+- Settlement records
+- Transfer history
+
+### Memorabilia Auction Plugin
+
+Supports auctions for historical, cultural, entertainment, and sports memorabilia.
+
+Features include:
+
+- Item registration
+- Provenance
+- Authentication
+- Condition records
+- Ownership history
+- Documentation
+- Reserve prices
+- Bid management
+- Auction results
+- Buyer and seller records
+- Settlement records
+
+### Agricultural Auction Plugin
+
+Supports auctions for livestock, crops, agricultural equipment, land-use assets, and other agricultural commodities where applicable.
+
+Features include:
+
+- Asset registration
+- Producer identification
+- Quantity records
+- Quality records
+- Inspection records
+- Location records
+- Auction terms
+- Bid management
+- Reserve prices
+- Winning bid records
+- Buyer and seller records
+- Settlement records
+
+### Commodity Auction Plugin
+
+Supports auctions for physical commodities and standardized commodity lots.
+
+Features include:
+
+- Commodity identification
+- Lot registration
+- Quantity
+- Grade
+- Quality
+- Inspection
+- Delivery terms
+- Bid management
+- Reserve prices
+- Auction results
+- Buyer and seller records
+- Fees
+- Settlement
+- Delivery records
+
+### Service Auction Plugin
+
+Supports auctions in which businesses or individuals bid to provide services.
+
+Features include:
+
+- Service registration
+- Provider identification
+- Service specifications
+- Qualification requirements
+- Delivery requirements
+- Bid submission
+- Bid comparison
+- Selection rules
+- Contract terms
+- Winning provider records
+- Settlement records
+- Performance records
+- Dispute records
+
+### Procurement Auction Plugin
+
+Supports competitive purchasing auctions in which suppliers submit bids to fulfill a defined procurement requirement.
+
+Features include:
+
+- Procurement request registration
+- Buyer identification
+- Product or service requirements
+- Supplier registration
+- Qualification requirements
+- Bid submission
+- Bid comparison
+- Award determination
+- Contract records
+- Supplier records
+- Purchase terms
+- Settlement records
+- Audit records
+
+### Freelance and Contract Auction Plugin
+
+Supports competitive auctions for freelance work, contracts, projects, and professional services.
+
+Features include:
+
+- Project registration
+- Scope definition
+- Requirements
+- Provider qualifications
+- Bid submission
+- Proposal records
+- Selection rules
+- Award records
+- Contract records
+- Milestone records
+- Payment records
+- Dispute records
+- Immutable project history
+
+### Energy Auction Plugin
+
+Supports auctions for electricity, renewable energy, capacity, energy credits, and other applicable energy products.
+
+Features include:
+
+- Energy product registration
+- Quantity
+- Delivery period
+- Delivery location
+- Generation source
+- Bid management
+- Reserve prices
+- Auction rules
+- Winning bid records
+- Delivery records
+- Settlement
+- Verification
+- Immutable transaction history
+
+### Carbon and Environmental Asset Auction Plugin
+
+Supports auctions involving environmental credits, certificates, offsets, and other transferable environmental assets where applicable.
+
+Features include:
+
+- Asset registration
+- Issuer identification
+- Quantity
+- Certification
+- Verification
+- Vintage information
+- Geographic information
+- Ownership history
+- Bid management
+- Auction results
+- Retirement records
+- Transfer records
+- Settlement
+- Immutable asset history
+
+### Financial Asset Auction Plugin
+
+Supports auction mechanisms for financial instruments and other regulated assets where legally permissible.
+
+Features include:
+
+- Asset identification
+- Eligibility requirements
+- Participant verification
+- Bid management
+- Auction rules
+- Pricing rules
+- Winning bid determination
+- Transaction records
+- Settlement records
+- Regulatory records
+- Immutable transaction history
+
+### Digital Asset Auction Plugin
+
+Supports auctions for transferable digital assets.
+
+Features include:
+
+- Asset registration
+- Asset identification
+- Ownership verification
+- Transfer rules
+- Bid management
+- Auction execution
+- Winning bid records
+- Transfer records
+- Settlement records
+- Provenance
+- Immutable ownership history
+
+### Custom Auction Plugin
+
+Provides a standardized framework for creating additional auction types not covered by the predefined plugins.
+
+A Custom Auction Plugin must define:
+
+- Auction asset
+- Participant types
+- Eligibility requirements
+- Bid format
+- Bid visibility requirements
+- Auction duration
+- Ranking method
+- Winner determination
+- Pricing method
+- Reserve-price rules
+- Fees
+- Settlement rules
+- Verification requirements
+- Audit requirements
+- Dispute procedures
+- Required immutable records
+
+Custom plugins must inherit the core OpenBid Ledger requirements and may not disable immutable logging, auditability, bid transparency, or host accountability.
+
 ---
 
 ## Security and Integrity Requirements
