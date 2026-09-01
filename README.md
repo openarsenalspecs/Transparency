@@ -90,7 +90,11 @@ ModelTrade, The AI Trade Network, is a federated, open source marketplace for pu
 
 - [**Open_Arsenal Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/039812fa1f05624b1ff5f0cb7e6053db6d53f5db/RepoHub.md)    
 [https://roxanneardary.com/openarsenal/](https://roxanneardary.com/openarsenal/)  
-Collection of open source application, database, program, and hardware concepts. It is designed for discovery and reuse.  
+Collection of open source application, database, program, and hardware concepts. It is designed for discovery and reuse.
+
+- [**OpenBid Ledger Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/af5508edb6b31423ff4dd4912b88292839e1b737/OpenBid%20Ledger.md)  
+[https://roxanneardary.com/openbid-ledger/](https://roxanneardary.com/openbid-ledger/)  
+OpenBid Ledger is an open source specification for transparent, auditable digital advertising auctions with visible bidding and immutable, verifiable records. Its modular architecture supports separate Cost Per Click (CPC) and Cost Per Impression Unit (CPIU) advertising models while providing host accountability, independent verification, transparent billing, and auditable auction activity.  
 
 - [**OpenDiagnose Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/b2ad770b415fa5c0ea0e4bedd0e24e1d1ee87280/OpenDiagnose.md)    
 [https://roxanneardary.com/opendiagnose/](https://roxanneardary.com/opendiagnose/)  
