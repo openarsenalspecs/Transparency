@@ -29,7 +29,7 @@ An open-source AI-powered ecological intelligence platform for designing, simula
 [https://roxanneardary.com/business-commons/](https://roxanneardary.com/business-commons/)    
 Business Commons is a modular, AI-assisted specification for transforming existing business infrastructure into shared economic opportunities while supporting independent enterprise, local marketplaces, cooperative models, and resource sharing. It provides extensible modules for space and equipment rental, workforce coordination, repair economies, local supply chains, mobile vendors, cooperative financing, shared insurance, transparency, and provenance across multiple industries.
 
-- **Cognimatrix Module Specification**
+- [**Cognimatrix Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/d73f65533f52547d7422813e59b139b24e231bc3/Cognimatrix.md)  
 [https://roxanneardary.com/cognimatrix/](https://roxanneardary.com/cognimatrix/)  
 Cognimatrix is an open source specification for building and connecting distributed machine intelligence through modular datasets, knowledge, models, agents, tasks, and workflows. It provides a foundation for provenance, accountability, interoperability, reproducibility, governance, and independent commercialization.  
 
