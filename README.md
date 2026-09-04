@@ -193,7 +193,11 @@ Modular protocol for pegging cryptocurrencies or fiat assets to reference assets
 
 - [**UrbanLayer Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/7d764652041d5779c9e68283fa01b8adc5d605a9/UrbanLayer.md)  
 [https://roxanneardary.com/urbanlayer/](https://roxanneardary.com/urbanlayer/)  
-An open-source municipal infrastructure platform for zoning, permitting, GIS analysis, and AI-powered regulatory automation.  
+An open-source municipal infrastructure platform for zoning, permitting, GIS analysis, and AI-powered regulatory automation.
+
+- **Vetora**  
+[https://roxanneardary.com/vetora/](https://roxanneardary.com/vetora/)  
+Vetora is an open-source AI veterinary health platform that helps organize animal health records, track symptoms, assess health risks, and identify situations requiring veterinary attention. It also provides medication price comparisons, generic and alternative medication information, and side-effect analysis to support safer, more informed veterinary care.  
 
 - [**VINGuard Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/195eb40f70be89a9f8d1f6aa9f624de0c4417b25/VINGuard.md)    
 [https://roxanneardary.com/vinguard/](https://roxanneardary.com/vinguard/)  
@@ -202,6 +206,14 @@ An open-source VIN-based vehicle transparency platform that aggregates accident 
 - [**WorkBench Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/766000e7739a9d8fde9d07642b740cf8373e06b1/WorkBench.md)    
 [https://roxanneardary.com/workbench/](https://roxanneardary.com/workbench/)  
 An open-source creator platform for collaboration, secure project management, and transparent monetization. It supports micro-royalties and multi-currency features.
+
+---
+
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/transparency/](https://roxanneardary.com/transparency/)  
+
+Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.
 
 ---
 
