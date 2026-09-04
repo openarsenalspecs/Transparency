@@ -195,7 +195,7 @@ Modular protocol for pegging cryptocurrencies or fiat assets to reference assets
 [https://roxanneardary.com/urbanlayer/](https://roxanneardary.com/urbanlayer/)  
 An open-source municipal infrastructure platform for zoning, permitting, GIS analysis, and AI-powered regulatory automation.
 
-- **Vetora**  
+- [**Vetora Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/312295d6c237e6e29f6bbab155cf5ea45648e2fa/Vetora.md)    
 [https://roxanneardary.com/vetora/](https://roxanneardary.com/vetora/)  
 Vetora is an open-source AI veterinary health platform that helps organize animal health records, track symptoms, assess health risks, and identify situations requiring veterinary attention. It also provides medication price comparisons, generic and alternative medication information, and side-effect analysis to support safer, more informed veterinary care.  
 
