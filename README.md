@@ -19,6 +19,26 @@ The specifications outlined on the page describe a broad framework for building 
 
 Across the specification set, there is a consistent focus on modular governance systems that can be adopted by different sectors while maintaining shared standards of openness and accountability. These frameworks are designed to be extensible, allowing organizations to integrate transparency layers into existing systems without rebuilding core infrastructure. Importantly, Specification Branding Licenses can be negotiated with any organization that would like to deploy without attribution, enabling flexible commercial or institutional adoption while preserving the option for open attribution-based use in other contexts.  
 
+---
+
+### Specification FAQs
+
+**The Open Arsenal specifications are designed as foundations, not disposable products.** They define reusable architectures that can be implemented, extended, combined, modified, and adapted to changing technologies and real-world requirements. Modular design allows individual capabilities to evolve without forcing an entire system to be replaced, while vendor-neutral architecture helps preserve independence and interoperability.
+
+**Long-term infrastructure requires long-term thinking.** Open-source licensing encourages examination, reuse, modification, and collaboration, while perpetual commercial licensing can provide organizations with lasting rights to deploy a specification without making foundational infrastructure dependent on recurring licensing renewals. The objective is to create technological foundations that can remain useful as companies, technologies, platforms, and business models change.
+
+1. [Understanding the Specifications](https://roxanneardary.com/understanding-the-specifications/)
+2. [How the Specifications Are Designed](https://roxanneardary.com/how-the-specifications-are-designed/)
+3. [Building From a Specification](https://roxanneardary.com/building-from-a-specification/)
+4. [Why Modularity Matters for the Future](https://roxanneardary.com/why-modularity-matters-for-the-future/)
+5. [Interoperability and Independence](https://roxanneardary.com/interoperability-and-independence/)
+6. [Open Source and Licensing](https://roxanneardary.com/open-source-and-licensing/)
+7. [Perpetual Licensing](https://roxanneardary.com/perpetual-licensing/)
+8. [The Bigger Vision](https://roxanneardary.com/the-bigger-vision/)
+9. [Specification Branding License](https://roxanneardary.com/specification-branding-license/)
+
+---
+
 ## Transparency Specs:  
 
 - [**Beekeeper’s Guide to the Universe Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/75721e1e018a96b89d0bd96c1d7d286a68985d8a/Beekeeper's%20Guide%20to%20the%20Universe.md)    
